@@ -1,9 +1,5 @@
 ## Welcome to free OS Ticket One theme Documentation
 
-You can use the [editor on GitHub](https://github.com/Zaliyo/osticket-one/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Getting Started
 - Download osTicket Core, v1.15.2 (Latest Release) https://osticket.com/download/
 - Install as usual
