@@ -18,7 +18,7 @@
 - Create minimum three **featured** categories
 - Then click on FAQs (`/scp/kb.php`)
 - Here you can view the recently created categories with zero  contents. Open each category an add minimum 1 faq contents and make sure that Listing Type: is **public**
-- Once saved you are all set. Visit your os ticket homepage and verifyy the website.
+- Once saved you are all set. Visit your os ticket homepage and verify the website.
 
 
 ### Support or Contact
