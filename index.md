@@ -1,9 +1,9 @@
 ## Welcome to free OS Ticket One theme Documentation
 
 ### Getting Started
-- Download osTicket Core, v1.15.2 (Latest Release) https://osticket.com/download/
+- Download osTicket Core, [v1.15.2 (Latest Release)](https://osticket.com/download/)
 - Install as usual
-- Download the source code from https://github.com/Zaliyo/osticket-one
+- Download the source code from [github](https://github.com/Zaliyo/osticket-one)
 - Extract the contents to the root folder
 
 ### Backend configuration
